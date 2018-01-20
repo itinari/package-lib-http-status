@@ -17,6 +17,9 @@
   ],
   "license": "ISC",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "github:itinari/package-lib-http-status",
   "engines": {
     "node": ">=9.0.0"
